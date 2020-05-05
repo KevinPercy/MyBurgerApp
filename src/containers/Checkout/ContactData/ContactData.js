@@ -24,7 +24,7 @@ class ContactData extends Component {
         //alert("You continue");
         const order = {
             ingredients: this.props.ingredients,
-            price: this.props.totalPrice,
+            price: this.props.price,
             custormer: {
                 name: 'Kevin',
                 addres: {
