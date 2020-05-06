@@ -27,6 +27,6 @@
 }
 
 .Invalid {
-    border: 1px red;
+    border: 1px solid red;
     background-color: #fda49a;
 }
